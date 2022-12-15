@@ -3,7 +3,7 @@ Done during a event from [Rocketseat](https://www.rocketseat.com.br/).
 
 ## Ignite Lab - NodeJs
 
-This project is a notification service, made with NestJs and typescript, using prisma as a ORM and using Jest to unit tests during the development of this project.
+This project is a notification service, made with NestJs and typescript, using prisma as a ORM and using Jest to do unit tests during the the development of this project.
 
 ### To run this project
 You just need to
